@@ -11,4 +11,26 @@ var array = Mod;
 dothing function {
 if (name == un named cell) {
 var name = KILLER;
+200
+}
+}
+var function = str.length(OgarMods);
+var goo = mod(Ogar);
+var a = 1000,
+// do five times
+var mod = for function array [2000] {
+var array'prototype' = function;
+keep.prototype (
+  $.document.stop [for HACKER])
+  prototype = script [
+    script['script']
+    var document = prototype mod]
+    
+}
+function [x] {
+/*
+TODO : No Hack
+If Hacked  Disable Hack
+[EXTERNAL BLOCK YOU IF U ARE HACK]
+*/
 }
