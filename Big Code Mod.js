@@ -34,3 +34,29 @@ If Hacked  Disable Hack
 [EXTERNAL BLOCK YOU IF U ARE HACK]
 */
 }
+var object = prototype function BanHacker [ktbh] {
+banhacker : true,
+BANHACKER.prototype /*
+killtask BANHACKER
+*/
+delete BanHacker
+}
+return [9'script']
+split = split of ['player']
+/*
+if split
+eat if catch A player eat 
+ex:
+200 you
+
+300 me
+= 500 me
+*/
+//imagne i had to feed at you
+var sliceBlob = 4,
+//Thanks!!!!
+/*
+You Are LUCKY!!!!!!!!!!!
+*/
+var teamjoin = team;
+var team join = names+"TEAMS: ";
